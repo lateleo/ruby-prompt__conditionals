@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A conditional is a method used in coding to make a program execute different lines of code based on whether or not certain criteria are met.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'==' is used in mathematical expressions where '=' would normally be used outside of code, while '=' is reserved for setting/changing the value of a variable.
